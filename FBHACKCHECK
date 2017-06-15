@@ -1,0 +1,16 @@
+check button code {
+
+
+
+
+if  EmailField.text = "" then
+  MsgBox "Enter Your Email/phone"
+elseif Password.Text = "" then 
+  MsgBox "Enter your Password "
+else 
+  Send
+end
+
+
+
+}
